@@ -10,3 +10,4 @@ ORDER BY
   total_value DESC
 )
 Select * from stg_orderLine
+
